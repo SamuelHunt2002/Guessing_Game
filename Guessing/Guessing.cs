@@ -18,7 +18,7 @@ namespace Guessing_Game
             counter = 10;
             guessList = new List<char>();
             targetWord = "";
-
+            mutatedTargetWord = "";
         }
 
         public int GetCounter()
@@ -88,8 +88,9 @@ namespace Guessing_Game
             return correctGuess;
         }
 
-        public bool isGameWon() {
-            if this.mutatedTargetWord.Contains('_') && counter > 0 {
+        public bool isGameWonInProgressOrFalse() {
+            if (this.mutatedTargetWord.Contains('_') && counter > 0) 
+            {
                 return false;
             }
             else return true; 
