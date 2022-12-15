@@ -1,0 +1,15 @@
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/bin/Debug/net7.0/Guessing
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/bin/Debug/net7.0/Guessing.deps.json
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/bin/Debug/net7.0/Guessing.runtimeconfig.json
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/bin/Debug/net7.0/Guessing.dll
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/bin/Debug/net7.0/Guessing.pdb
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.csproj.AssemblyReference.cache
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.AssemblyInfoInputs.cache
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.AssemblyInfo.cs
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.csproj.CoreCompileInputs.cache
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.dll
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/refint/Guessing.dll
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.pdb
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/Guessing.genruntimeconfig.cache
+/Users/samuelhunt/Projects/Guessing_Game/Guessing/obj/Debug/net7.0/ref/Guessing.dll
